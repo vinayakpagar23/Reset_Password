@@ -1,0 +1,44 @@
+form{
+    padding-left:60px;
+    margin-bottom: 30px;
+    
+}
+#div1{
+    background-image: linear-gradient(pink,skyblue,white);
+}
+
+.container{
+    background-image: linear-gradient(lightblue,skyblue,pink);
+}
+
+#login{
+    width:240px;
+    margin-bottom:40px;
+}
+
+#register{
+    width:240px;
+    margin-bottom:40px;
+}
+#reset{
+    width:240px;
+    margin-bottom:40px;
+}
+
+#name{
+    width:240px;
+    
+
+}
+#Email{
+    width:240px;
+}
+
+#pwd{
+    width:240px;
+}
+
+#rpwd{
+    width:240px;
+}
+
